@@ -1,0 +1,29 @@
+# - source: 
+#   function: 
+#   choice: 
+#   co2: 
+#   denominator: 
+
+- source: http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf
+  function: House
+  choice: Efficient house
+  co2: 3.8 lbs
+  denominator: squarefoot-year
+
+- source: http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf
+  function: Home
+  choice: Average US house
+  co2: 10 lbs
+  denominator: squarefoot-year
+
+- source: http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf
+  function: Home
+  choice: large with many amenities
+  co2: 51 lbs
+  denominator: squarefoot-year
+
+- source: http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf
+  function: TV
+  choice: LCD 40" ﬂatscreen TV
+  co2: 0.7 lb
+  denominator: day

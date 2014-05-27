@@ -1,0 +1,96 @@
+# - source: 
+#   function: 
+#   choice: 
+#   co2: 
+#   denominator: 
+#   source:
+
+- source: http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf
+  function: Lighting
+  choice: natural window light
+  co2: 0 lbs
+  denominator: day
+
+- source: http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf
+  function: Cooling
+  choice: open a window for fresh air
+  co2: 0
+  denominator: day
+
+- source: http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf
+  function: Washing
+  choice: cold water, air dry
+  co2: 0.4 lbs
+  denominator: wash
+
+- source: http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf
+  function: Snow removal
+  choice: shovel by hand
+  co2: 0
+  denominator: year
+
+- source: http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf
+  function: Bathing
+  choice: hot shower, 5 minutes
+  co2: 3.5 lbs
+  denominator: shower
+
+- source: http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf
+  function: Lighting
+  choice: run four 26W CFL bulbs for 12 hours
+  co2: 1.7 lbs
+  denominator: day
+
+- source: http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf
+  function: Cooling
+  choice: run electric fan
+  co2: 1 lb
+  denominator: day
+
+- source: http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf
+  function: Washing
+  choice: cold water, electric dryer
+  co2: 4.4 lbs
+  denominator: wash
+
+- source: http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf
+  function: Snow removal
+  choice: snowplow truck
+  co2: 950 lbs
+  denominator: year 
+
+- source: http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf
+  function: Bathing
+  choice: hot shower, 10 minutes
+  co2: 7 lbs
+  denominator: shower
+
+- source: http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf
+  function: Lighting
+  choice: run four 100W bulbs for 12 hours
+  co2: 6.5 lbs
+  denominator: day 
+
+- source: http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf
+  function: Cooling
+  choice: run air conditioner
+  co2: 7lbs
+  denominator: day
+
+- source: http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf
+  function: Washing
+  choice: hot water, electric dryer
+  co2: 8 lbs
+  denominator: day
+
+- source: http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf
+  function: Snow removal
+  choice: heated driveway
+  co2: 6 tons
+  denominator: year
+
+- source: http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf
+  function: Bathing
+  choice: soaking in avg hot tub
+  co2: 9 lbs
+  denominator: day
