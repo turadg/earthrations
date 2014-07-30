@@ -1,0 +1,49 @@
+function,choice,co2-lb,water-gal,denominator,source-markdown
+Bathing,"hot shower, 5 minutes",3.5,,shower,[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf)
+Bathing,"hot shower, 10 minutes",7,,shower,[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf)
+Bathing,soaking in avg hot tub,9,,day,[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf)
+Cooling,open a window for fresh air,0,,day,[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf)
+Cooling,run electric fan,1,,day,[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf)
+Cooling,run air conditioner,7,,day,[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf)
+Home,Average US house,10,,squarefoot-year,[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf)
+Home,large with many amenities,51,,squarefoot-year,[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf)
+House,Efficient house,3.8,,squarefoot-year,[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf)
+Lighting,natural window light,0,,day,[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf)
+Lighting,run four 26W CFL bulbs for 12 hours,1.7,,day,[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf)
+Lighting,run four 100W bulbs for 12 hours,6.5,,day,[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf)
+Snow removal,shovel by hand,0,,year,[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf)
+Snow removal,snowplow truck,950,,year ,[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf)
+Snow removal,heated driveway,12000,,year,[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf)
+TV,"LCD 40"" flatscreen TV",0.7,,day,[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf)
+Washing,"cold water, air dry",0.4,,wash,[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf)
+Washing,"cold water, electric dryer",4.4,,wash,[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf)
+Washing,"hot water, electric dryer",8,,day,[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf)
+Food,Lettuce,,23.6,lb,"Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 1991"
+Food,"Tomatoes, Fresh",,28.55,lb,"Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 1992"
+Food,Oranges,,48.45,lb,"Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 1993"
+Food,Tomato Catsup,,51.8,lb,"Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 1994"
+Food,Tomato Sauce,,51.8,lb,"Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 1995"
+Food,"Broccoli, Frozen",,54.31,lb,"Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 1996"
+Food,"Broccoli, Fresh Market",,63.6,lb,"Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 1997"
+Food,"Melon, Cantalooupe",,79.93,lb,"Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 1998"
+Food,"Dairy, Milk (whole)",,89.67,lb,"Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 1999"
+Food,Orange Juice (fresh),,90.07,lb,"Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2000"
+Food,Tomato Paste,,93.15,lb,"Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2001"
+Food,Whole Wheat Bread,,138.78,lb,"Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2002"
+Food,"Dairy, Plain Yogurt",,156.03,lb,"Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2003"
+Food,Whole Wheat Flour,,181.87,lb,"Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2004"
+Food,White Bread,,201.42,lb,"Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2005"
+Food,Soybean Tofu,,219.4,lb,"Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2006"
+Food,"Rice, Brown",,250.87,lb,"Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2007"
+Food,"Sugar, White Granular",,259.66,lb,"Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2008"
+Food,White Flour,,275.84,lb,"Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2009"
+Food,Pasta (white wheat flour),,287.39,lb,"Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2010"
+Food,"Rice, White",,401.39,lb,"Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2011"
+Food,Chicken Egg,,477.93,lb,"Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2012"
+Food,Soybeans,,480.05,lb,"Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2013"
+Food,Chicken meat w/ skn & bns,,660.11,lb,"Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2014"
+Food,"Dairy, Cheese",,896.34,lb,"Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2015"
+Food,Almonds,,1282.79,lb,"Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2016"
+Food,"Dairy, Butter",,2057.22,lb,"Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2017"
+Food,"Beef, Hamburger",,2463.54,lb,"Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2018"
+Food,"Beef, Boneless Steak",,2463.54,lb,"Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2019"
