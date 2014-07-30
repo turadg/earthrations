@@ -69,7 +69,7 @@
   function: Lighting
   choice: run four 100W bulbs for 12 hours
   co2: 6.5 lbs
-  denominator: day 
+  denominator: day
 
 - source: http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf
   function: Cooling
