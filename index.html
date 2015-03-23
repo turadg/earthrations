@@ -1,0 +1,29 @@
+---
+title: Earth Rations
+layout: default
+---
+
+<header>
+<h1>Earth Rations</h1>
+<h2>For more rational use of the planet&#39;s resources</h2>
+</header>
+
+<section id="main-content">
+
+<p>What's worse for the environment? Driving a Hummer instead of a Prius, or flying across the US? The answer may surprise you.</p>
+
+<p>Earth Rations collects these sorts of comparisons, backed by data and analysis, to help you make more rational decisions about how you use our planet's non-renewable resources and limited capacity for pollution.</p>
+</section>
+
+<div id="app"></div>
+
+<script type="text/javascript">
+OPTIONS = {{ site.data.all | json }};
+
+$(document).ready(function() {
+  React.render(
+  	new CompareApp({options: OPTIONS}),
+    document.getElementById('app')
+  );
+});
+</script>
