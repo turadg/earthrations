@@ -1,0 +1,388 @@
+{
+  "data": [
+    {
+      "functionName": "Bathing",
+      "optionName": "hot shower, 5 minutes",
+      "co2Lb": 3.5,
+      "waterGal": "",
+      "denominator": "shower",
+      "citationMarkdown": "[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf)"
+    },
+    {
+      "functionName": "Bathing",
+      "optionName": "hot shower, 10 minutes",
+      "co2Lb": 7,
+      "waterGal": "",
+      "denominator": "shower",
+      "citationMarkdown": "[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf)"
+    },
+    {
+      "functionName": "Bathing",
+      "optionName": "soaking in avg hot tub",
+      "co2Lb": 9,
+      "waterGal": 36,
+      "denominator": "day",
+      "citationMarkdown": "[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf), [USGS](http://water.usgs.gov/edu/qa-home-percapita.html)"
+    },
+    {
+      "functionName": "Cooling",
+      "optionName": "open a window for fresh air",
+      "co2Lb": 0,
+      "waterGal": "",
+      "denominator": "day",
+      "citationMarkdown": "[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf)"
+    },
+    {
+      "functionName": "Cooling",
+      "optionName": "run electric fan",
+      "co2Lb": 1,
+      "waterGal": "",
+      "denominator": "day",
+      "citationMarkdown": "[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf)"
+    },
+    {
+      "functionName": "Cooling",
+      "optionName": "run air conditioner",
+      "co2Lb": 7,
+      "waterGal": "",
+      "denominator": "day",
+      "citationMarkdown": "[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf)"
+    },
+    {
+      "functionName": "Home",
+      "optionName": "Average US house",
+      "co2Lb": 10,
+      "waterGal": "",
+      "denominator": "squarefoot-year",
+      "citationMarkdown": "[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf)"
+    },
+    {
+      "functionName": "Home",
+      "optionName": "large with many amenities",
+      "co2Lb": 51,
+      "waterGal": "",
+      "denominator": "squarefoot-year",
+      "citationMarkdown": "[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf)"
+    },
+    {
+      "functionName": "House",
+      "optionName": "Efficient house",
+      "co2Lb": 3.8,
+      "waterGal": "",
+      "denominator": "squarefoot-year",
+      "citationMarkdown": "[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf)"
+    },
+    {
+      "functionName": "Lighting",
+      "optionName": "natural window light",
+      "co2Lb": 0,
+      "waterGal": "",
+      "denominator": "day",
+      "citationMarkdown": "[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf)"
+    },
+    {
+      "functionName": "Lighting",
+      "optionName": "run four 26W CFL bulbs for 12 hours",
+      "co2Lb": 1.7,
+      "waterGal": "",
+      "denominator": "day",
+      "citationMarkdown": "[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf)"
+    },
+    {
+      "functionName": "Lighting",
+      "optionName": "run four 100W bulbs for 12 hours",
+      "co2Lb": 6.5,
+      "waterGal": "",
+      "denominator": "day",
+      "citationMarkdown": "[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf)"
+    },
+    {
+      "functionName": "Snow removal",
+      "optionName": "shovel by hand",
+      "co2Lb": 0,
+      "waterGal": "",
+      "denominator": "year",
+      "citationMarkdown": "[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf)"
+    },
+    {
+      "functionName": "Snow removal",
+      "optionName": "snowplow truck",
+      "co2Lb": 950,
+      "waterGal": "",
+      "denominator": "year ",
+      "citationMarkdown": "[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf)"
+    },
+    {
+      "functionName": "Snow removal",
+      "optionName": "heated driveway",
+      "co2Lb": 12000,
+      "waterGal": "",
+      "denominator": "year",
+      "citationMarkdown": "[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf)"
+    },
+    {
+      "functionName": "TV",
+      "optionName": "LCD 40\" flatscreen TV",
+      "co2Lb": 0.7,
+      "waterGal": "",
+      "denominator": "day",
+      "citationMarkdown": "[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf)"
+    },
+    {
+      "functionName": "Washing",
+      "optionName": "cold water, air dry",
+      "co2Lb": 0.4,
+      "waterGal": "",
+      "denominator": "wash",
+      "citationMarkdown": "[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf)"
+    },
+    {
+      "functionName": "Washing",
+      "optionName": "cold water, electric dryer",
+      "co2Lb": 4.4,
+      "waterGal": "",
+      "denominator": "wash",
+      "citationMarkdown": "[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf)"
+    },
+    {
+      "functionName": "Washing",
+      "optionName": "hot water, electric dryer",
+      "co2Lb": 8,
+      "waterGal": "",
+      "denominator": "day",
+      "citationMarkdown": "[Carbon Footprint card from Sopris Foundation](http://www.agci.org/solutions/docs/SoprisFoundationCarbonFootprintCard09.pdf)"
+    },
+    {
+      "functionName": "Food",
+      "optionName": "Lettuce",
+      "co2Lb": "",
+      "waterGal": 23.6,
+      "denominator": "lb",
+      "citationMarkdown": "Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 1991"
+    },
+    {
+      "functionName": "Food",
+      "optionName": "Tomatoes, Fresh",
+      "co2Lb": "",
+      "waterGal": 28.55,
+      "denominator": "lb",
+      "citationMarkdown": "Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 1992"
+    },
+    {
+      "functionName": "Food",
+      "optionName": "Oranges",
+      "co2Lb": "",
+      "waterGal": 48.45,
+      "denominator": "lb",
+      "citationMarkdown": "Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 1993"
+    },
+    {
+      "functionName": "Food",
+      "optionName": "Tomato Catsup",
+      "co2Lb": "",
+      "waterGal": 51.8,
+      "denominator": "lb",
+      "citationMarkdown": "Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 1994"
+    },
+    {
+      "functionName": "Food",
+      "optionName": "Tomato Sauce",
+      "co2Lb": "",
+      "waterGal": 51.8,
+      "denominator": "lb",
+      "citationMarkdown": "Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 1995"
+    },
+    {
+      "functionName": "Food",
+      "optionName": "Broccoli, Frozen",
+      "co2Lb": "",
+      "waterGal": 54.31,
+      "denominator": "lb",
+      "citationMarkdown": "Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 1996"
+    },
+    {
+      "functionName": "Food",
+      "optionName": "Broccoli, Fresh Market",
+      "co2Lb": "",
+      "waterGal": 63.6,
+      "denominator": "lb",
+      "citationMarkdown": "Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 1997"
+    },
+    {
+      "functionName": "Food",
+      "optionName": "Melon, Cantalooupe",
+      "co2Lb": "",
+      "waterGal": 79.93,
+      "denominator": "lb",
+      "citationMarkdown": "Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 1998"
+    },
+    {
+      "functionName": "Food",
+      "optionName": "Dairy, Milk (whole)",
+      "co2Lb": "",
+      "waterGal": 89.67,
+      "denominator": "lb",
+      "citationMarkdown": "Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 1999"
+    },
+    {
+      "functionName": "Food",
+      "optionName": "Orange Juice (fresh)",
+      "co2Lb": "",
+      "waterGal": 90.07,
+      "denominator": "lb",
+      "citationMarkdown": "Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2000"
+    },
+    {
+      "functionName": "Food",
+      "optionName": "Tomato Paste",
+      "co2Lb": "",
+      "waterGal": 93.15,
+      "denominator": "lb",
+      "citationMarkdown": "Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2001"
+    },
+    {
+      "functionName": "Food",
+      "optionName": "Whole Wheat Bread",
+      "co2Lb": "",
+      "waterGal": 138.78,
+      "denominator": "lb",
+      "citationMarkdown": "Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2002"
+    },
+    {
+      "functionName": "Food",
+      "optionName": "Dairy, Plain Yogurt",
+      "co2Lb": "",
+      "waterGal": 156.03,
+      "denominator": "lb",
+      "citationMarkdown": "Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2003"
+    },
+    {
+      "functionName": "Food",
+      "optionName": "Whole Wheat Flour",
+      "co2Lb": "",
+      "waterGal": 181.87,
+      "denominator": "lb",
+      "citationMarkdown": "Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2004"
+    },
+    {
+      "functionName": "Food",
+      "optionName": "White Bread",
+      "co2Lb": "",
+      "waterGal": 201.42,
+      "denominator": "lb",
+      "citationMarkdown": "Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2005"
+    },
+    {
+      "functionName": "Food",
+      "optionName": "Soybean Tofu",
+      "co2Lb": "",
+      "waterGal": 219.4,
+      "denominator": "lb",
+      "citationMarkdown": "Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2006"
+    },
+    {
+      "functionName": "Food",
+      "optionName": "Rice, Brown",
+      "co2Lb": "",
+      "waterGal": 250.87,
+      "denominator": "lb",
+      "citationMarkdown": "Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2007"
+    },
+    {
+      "functionName": "Food",
+      "optionName": "Sugar, White Granular",
+      "co2Lb": "",
+      "waterGal": 259.66,
+      "denominator": "lb",
+      "citationMarkdown": "Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2008"
+    },
+    {
+      "functionName": "Food",
+      "optionName": "White Flour",
+      "co2Lb": "",
+      "waterGal": 275.84,
+      "denominator": "lb",
+      "citationMarkdown": "Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2009"
+    },
+    {
+      "functionName": "Food",
+      "optionName": "Pasta (white wheat flour)",
+      "co2Lb": "",
+      "waterGal": 287.39,
+      "denominator": "lb",
+      "citationMarkdown": "Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2010"
+    },
+    {
+      "functionName": "Food",
+      "optionName": "Rice, White",
+      "co2Lb": "",
+      "waterGal": 401.39,
+      "denominator": "lb",
+      "citationMarkdown": "Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2011"
+    },
+    {
+      "functionName": "Food",
+      "optionName": "Chicken Egg",
+      "co2Lb": "",
+      "waterGal": 477.93,
+      "denominator": "lb",
+      "citationMarkdown": "Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2012"
+    },
+    {
+      "functionName": "Food",
+      "optionName": "Soybeans",
+      "co2Lb": "",
+      "waterGal": 480.05,
+      "denominator": "lb",
+      "citationMarkdown": "Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2013"
+    },
+    {
+      "functionName": "Food",
+      "optionName": "Chicken meat w/ skn & bns",
+      "co2Lb": "",
+      "waterGal": 660.11,
+      "denominator": "lb",
+      "citationMarkdown": "Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2014"
+    },
+    {
+      "functionName": "Food",
+      "optionName": "Dairy, Cheese",
+      "co2Lb": "",
+      "waterGal": 896.34,
+      "denominator": "lb",
+      "citationMarkdown": "Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2015"
+    },
+    {
+      "functionName": "Food",
+      "optionName": "Almonds",
+      "co2Lb": "",
+      "waterGal": 1282.79,
+      "denominator": "lb",
+      "citationMarkdown": "Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2016"
+    },
+    {
+      "functionName": "Food",
+      "optionName": "Dairy, Butter",
+      "co2Lb": "",
+      "waterGal": 2057.22,
+      "denominator": "lb",
+      "citationMarkdown": "Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2017"
+    },
+    {
+      "functionName": "Food",
+      "optionName": "Beef, Hamburger",
+      "co2Lb": "",
+      "waterGal": 2463.54,
+      "denominator": "lb",
+      "citationMarkdown": "Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2018"
+    },
+    {
+      "functionName": "Food",
+      "optionName": "Beef, Boneless Steak",
+      "co2Lb": "",
+      "waterGal": 2463.54,
+      "denominator": "lb",
+      "citationMarkdown": "Marcia Kreith, [Water Inputs in California Food Production](http://vegetarian.procon.org/sourcefiles/water_inputs_in_ca_food_production.pdf) , [SAKIA](www.sakia.org), Sep. 27, 2019"
+    }
+  ]
+}
